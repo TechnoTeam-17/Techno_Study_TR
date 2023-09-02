@@ -7,18 +7,5 @@ public class Deneme1 {
         System.out.println("Alpaslan");
         System.out.println("Alpaslan");
         System.out.println("Alpaslan");
-        System.out.println("Alpaslan");
-        System.out.println("Alpaslan");
-        System.out.println("Alpaslan");
-        System.out.println("Alpaslan");
-        System.out.println("Alpaslan");
-        System.out.println("Alpaslan");
-        System.out.println("Alpaslan");
-        System.out.println("Alpaslan");
-        System.out.println("Alpaslan");
-        System.out.println("Alpaslan");
-        System.out.println("Alpaslan");
-        System.out.println("Alpaslan");
-        System.out.println("Alpaslan");
     }
 }
