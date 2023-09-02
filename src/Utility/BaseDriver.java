@@ -1,5 +1,4 @@
 package Utility;
-package Utility;
 
 
 import org.openqa.selenium.By;
